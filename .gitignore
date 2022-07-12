@@ -9,7 +9,8 @@
 /coverage
 
 # data
-/src/*.json
+/src/runs.json
+/src/players.json
 
 # production
 /build
