@@ -22634,5 +22634,320 @@
             6,
             3
         ]
+    },
+    {
+        "rid": "3802116577836598935338",
+        "pids": [
+            "8935338",
+            "8964414",
+            "6984619",
+            "7651567",
+            "9115565"
+        ],
+        "pnames": [
+            "Binopala",
+            "Imyoursoul",
+            "Samá",
+            "Campw",
+            "Shélbý"
+        ],
+        "dung": "2284_380",
+        "lvl": 21,
+        "time": 2324,
+        "score": 155.28,
+        "timestamp": 1657783659,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "hunter",
+            "warrior",
+            "rogue"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3801616577756078673412",
+        "pids": [
+            "8673412",
+            "6414468",
+            "477145",
+            "6409714",
+            "7787396"
+        ],
+        "pnames": [
+            "Jerjès",
+            "Eylshatdt",
+            "Tásjon",
+            "Baborak",
+            "Chikitocm"
+        ],
+        "dung": "2284_380",
+        "lvl": 16,
+        "time": 1889,
+        "score": 131.16,
+        "timestamp": 1657775607,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "warrior",
+            "hunter",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3792016577795688935338",
+        "pids": [
+            "8935338",
+            "4861430",
+            "4287246",
+            "8964414",
+            "9115565"
+        ],
+        "pnames": [
+            "Binopala",
+            "Xúl",
+            "Towsinowx",
+            "Imyoursoul",
+            "Shélbý"
+        ],
+        "dung": "2289_379",
+        "lvl": 20,
+        "time": 1912,
+        "score": 150.81,
+        "timestamp": 1657779568,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "shaman",
+            "rogue"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3751916577766788935338",
+        "pids": [
+            "8935338",
+            "4861430",
+            "4287246",
+            "8964414",
+            "9115565"
+        ],
+        "pnames": [
+            "Binopala",
+            "Xúl",
+            "Towsinowx",
+            "Imyoursoul",
+            "Shélbý"
+        ],
+        "dung": "2290_375",
+        "lvl": 19,
+        "time": 1698,
+        "score": 145.28,
+        "timestamp": 1657776678,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "shaman",
+            "rogue"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3751816577786561379465",
+        "pids": [
+            "1379465",
+            "8695789",
+            "7362160",
+            "7651567",
+            "7728448"
+        ],
+        "pnames": [
+            "Geoffanan",
+            "Frupih",
+            "Хъюстан",
+            "Campw",
+            "Metamørphine"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1786,
+        "score": 140.04,
+        "timestamp": 1657778656,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3771916577745228935338",
+        "pids": [
+            "8935338",
+            "4861430",
+            "4287246",
+            "8964414",
+            "9115565"
+        ],
+        "pnames": [
+            "Binopala",
+            "Xúl",
+            "Towsinowx",
+            "Imyoursoul",
+            "Shélbý"
+        ],
+        "dung": "2291_377",
+        "lvl": 19,
+        "time": 2052,
+        "score": 146.02,
+        "timestamp": 1657774522,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "deathknight",
+            "shaman",
+            "rogue"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3771716577848718624795",
+        "pids": [
+            "8624795",
+            "4346782",
+            "7611916",
+            "7835693",
+            "8765203"
+        ],
+        "pnames": [
+            "Holygodx",
+            "Gazlowé",
+            "Utcher",
+            "Суверен",
+            "Critcacke"
+        ],
+        "dung": "2291_377",
+        "lvl": 17,
+        "time": 2735,
+        "score": 128.81,
+        "timestamp": 1657784871,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "deathknight",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3771616577783929044564",
+        "pids": [
+            "9044564",
+            "2394486",
+            "1754251",
+            "7446839",
+            "9163622"
+        ],
+        "pnames": [
+            "Theysseemmee",
+            "Dâsh",
+            "Åcé",
+            "Everytìme",
+            "Shâdöw"
+        ],
+        "dung": "2291_377",
+        "lvl": 16,
+        "time": 1805,
+        "score": 131.5,
+        "timestamp": 1657778392,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "deathknight",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3821816577765526921181",
+        "pids": [
+            "6921181",
+            "4346782",
+            "7849884",
+            "8810379",
+            "9298481"
+        ],
+        "pnames": [
+            "Quetzalcóätl",
+            "Gazlowé",
+            "Ssylvanås",
+            "Pótara",
+            "Nihusarg"
+        ],
+        "dung": "2293_382",
+        "lvl": 18,
+        "time": 2832,
+        "score": 130.17,
+        "timestamp": 1657776552,
+        "pclasses": [
+            "demonhunter",
+            "shaman",
+            "paladin",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
     }
 ]
