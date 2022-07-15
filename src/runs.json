@@ -19661,41 +19661,6 @@
         ]
     },
     {
-        "rid": "3751716577229549111427",
-        "pids": [
-            "9111427",
-            "5208403",
-            "4324913",
-            "7725836",
-            "9043515"
-        ],
-        "pnames": [
-            "Rigwald",
-            "Кактусвраю",
-            "Шадоуз",
-            "Jieunnie",
-            "Qiyu"
-        ],
-        "dung": "2290_375",
-        "lvl": 17,
-        "time": 1363,
-        "score": 136.21,
-        "timestamp": 1657722954,
-        "pclasses": [
-            "druid",
-            "paladin",
-            "warlock",
-            "mage",
-            "monk"
-        ],
-        "affixes": [
-            128,
-            9,
-            6,
-            3
-        ]
-    },
-    {
         "rid": "3751716577258547335250",
         "pids": [
             "7335250",
@@ -25776,6 +25741,111 @@
             "druid",
             "shaman",
             "demonhunter",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3811716578687079262451",
+        "pids": [
+            "9262451",
+            "2163066",
+            "4332843",
+            "5699805",
+            "9147401"
+        ],
+        "pnames": [
+            "Fullstop",
+            "Dròód",
+            "Axezel",
+            "Mkkao",
+            "Windwitçh"
+        ],
+        "dung": "2285_381",
+        "lvl": 17,
+        "time": 2593,
+        "score": 127.85,
+        "timestamp": 1657868707,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3791916578641592913118",
+        "pids": [
+            "2913118",
+            "2163066",
+            "7651567",
+            "7725836",
+            "9412269"
+        ],
+        "pnames": [
+            "Spectrat",
+            "Dròód",
+            "Campw",
+            "Jieunnie",
+            "Tsumî"
+        ],
+        "dung": "2289_379",
+        "lvl": 19,
+        "time": 1954,
+        "score": 145.71,
+        "timestamp": 1657864159,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "mage",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3751816578616582913118",
+        "pids": [
+            "2913118",
+            "2163066",
+            "3434487",
+            "7725836",
+            "9412269"
+        ],
+        "pnames": [
+            "Spectrat",
+            "Dròód",
+            "Romdrax",
+            "Jieunnie",
+            "Tsumî"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1524,
+        "score": 140.77,
+        "timestamp": 1657861658,
+        "pclasses": [
+            "warrior",
+            "druid",
+            "warrior",
+            "mage",
             "warlock"
         ],
         "affixes": [
