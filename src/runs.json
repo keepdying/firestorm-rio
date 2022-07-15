@@ -25749,5 +25749,40 @@
             6,
             3
         ]
+    },
+    {
+        "rid": "378181657858682671699",
+        "pids": [
+            "671699",
+            "2163066",
+            "62181",
+            "7728448",
+            "9412269"
+        ],
+        "pnames": [
+            "Yoin",
+            "Dròód",
+            "Sàiyan",
+            "Metamørphine",
+            "Tsumî"
+        ],
+        "dung": "2287_378",
+        "lvl": 18,
+        "time": 2012,
+        "score": 134.05,
+        "timestamp": 1657858682,
+        "pclasses": [
+            "monk",
+            "druid",
+            "shaman",
+            "demonhunter",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
     }
 ]
