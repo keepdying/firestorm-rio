@@ -36389,5 +36389,75 @@
             6,
             3
         ]
+    },
+    {
+        "rid": "3761716580380736431136",
+        "pids": [
+            "6431136",
+            "7638518",
+            "671699",
+            "2704416",
+            "9147401"
+        ],
+        "pnames": [
+            "Toribex",
+            "Leeroyman",
+            "Yoin",
+            "Kdigo",
+            "Windwitçh"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 1539,
+        "score": 136.44,
+        "timestamp": 1658038073,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "monk",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
+    },
+    {
+        "rid": "3771816580393087388183",
+        "pids": [
+            "7388183",
+            "9269828",
+            "3434487",
+            "4885483",
+            "6225527"
+        ],
+        "pnames": [
+            "Patín",
+            "Ratibaoz",
+            "Romdrax",
+            "Clokcwer",
+            "Gnórk"
+        ],
+        "dung": "2291_377",
+        "lvl": 18,
+        "time": 2722,
+        "score": 133.91,
+        "timestamp": 1658039308,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            9,
+            6,
+            3
+        ]
     }
 ]
