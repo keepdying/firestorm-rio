@@ -77862,5 +77862,422 @@
             122,
             12
         ]
+    },
+    {
+        "rid": "3811716583194904548110",
+        "pids": [
+            "4548110",
+            "9264824",
+            "5310017",
+            "5333988",
+            "5731015"
+        ],
+        "pnames": [
+            "Kurokenshin",
+            "Оверлордыч",
+            "Колдер",
+            "Foman",
+            "Molista"
+        ],
+        "dung": "2285_381",
+        "lvl": 17,
+        "time": 3201,
+        "score": 122.65,
+        "timestamp": 1658319490,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "paladin",
+            "mage",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3781916583164318919071",
+        "pids": [
+            "8919071",
+            "7745162",
+            "4937540",
+            "5270934",
+            "8714727"
+        ],
+        "pnames": [
+            "Makarooshka",
+            "Финзи",
+            "Eethaan",
+            "Дрююс",
+            "Javeling"
+        ],
+        "dung": "2287_378",
+        "lvl": 19,
+        "time": 1849,
+        "score": 145.18,
+        "timestamp": 1658316431,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "warrior",
+            "mage",
+            "deathknight"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3781716583157528455435",
+        "pids": [
+            "8455435",
+            "5535482",
+            "204024",
+            "9529690"
+        ],
+        "pnames": [
+            "Wëedeveryday",
+            "Qutefox",
+            "Içy",
+            "Aquidah"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 2329,
+        "score": 125.75,
+        "timestamp": 1658315752,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "mage",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3791616583210903262741",
+        "pids": [
+            "3262741",
+            "4198349",
+            "883542",
+            "7335935",
+            "9248579"
+        ],
+        "pnames": [
+            "Geeklove",
+            "Etcethera",
+            "Ðnaria",
+            "Spimat",
+            "Cerombre"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 1531,
+        "score": 131.64,
+        "timestamp": 1658321090,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "priest",
+            "mage",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3791616583183809681732",
+        "pids": [
+            "9681732",
+            "8681851",
+            "150676",
+            "7263646",
+            "9253531"
+        ],
+        "pnames": [
+            "Korinowu",
+            "Xchia",
+            "Rogalik",
+            "Синний",
+            "Uwuwewue"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2225,
+        "score": 130.12,
+        "timestamp": 1658318380,
+        "pclasses": [
+            "monk",
+            "monk",
+            "rogue",
+            "monk",
+            "deathknight"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3751716583183549317454",
+        "pids": [
+            "9317454",
+            "4903656",
+            "6775255",
+            "9159219",
+            "9302604"
+        ],
+        "pnames": [
+            "Frðzen",
+            "Седна",
+            "Maievbaby",
+            "Razyl",
+            "Majørino"
+        ],
+        "dung": "2290_375",
+        "lvl": 17,
+        "time": 1943,
+        "score": 128.42,
+        "timestamp": 1658318354,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "hunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3771716583174514215627",
+        "pids": [
+            "4215627",
+            "7657876",
+            "9283924",
+            "9322002",
+            "9479582"
+        ],
+        "pnames": [
+            "Fedlinson",
+            "Миира",
+            "Glorune",
+            "Bomberbest",
+            "Furybash"
+        ],
+        "dung": "2291_377",
+        "lvl": 17,
+        "time": 1980,
+        "score": 136.16,
+        "timestamp": 1658317451,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "hunter",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3821816583072958624795",
+        "pids": [
+            "8624795",
+            "8455435",
+            "2709174",
+            "9379388",
+            "9592500"
+        ],
+        "pnames": [
+            "Holygodx",
+            "Wëedeveryday",
+            "Deadshòt",
+            "Queryqueue",
+            "Kornigson"
+        ],
+        "dung": "2293_382",
+        "lvl": 18,
+        "time": 1961,
+        "score": 140.7,
+        "timestamp": 1658307295,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "monk",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3821716583067213262741",
+        "pids": [
+            "3262741",
+            "450499",
+            "6505342",
+            "8038228",
+            "9155006"
+        ],
+        "pnames": [
+            "Geeklove",
+            "Påytðwînlðl",
+            "Mordragux",
+            "Upheavmage",
+            "Gusis"
+        ],
+        "dung": "2293_382",
+        "lvl": 17,
+        "time": 2023,
+        "score": 135.56,
+        "timestamp": 1658306721,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "hunter",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3821716583102729395223",
+        "pids": [
+            "9395223",
+            "8210609",
+            "5270934",
+            "5880223",
+            "8708377"
+        ],
+        "pnames": [
+            "Бронемишка",
+            "Totemixx",
+            "Дрююс",
+            "Donzombie",
+            "Monkonechamp"
+        ],
+        "dung": "2293_382",
+        "lvl": 17,
+        "time": 2062,
+        "score": 135.48,
+        "timestamp": 1658310272,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "mage",
+            "hunter",
+            "monk"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "382171658320688481088",
+        "pids": [
+            "481088",
+            "7816164",
+            "363827",
+            "7908239",
+            "9346538"
+        ],
+        "pnames": [
+            "Vitchen",
+            "Yulkha",
+            "Vardous",
+            "Deathplant",
+            "Zegcio"
+        ],
+        "dung": "2293_382",
+        "lvl": 17,
+        "time": 2352,
+        "score": 129.38,
+        "timestamp": 1658320688,
+        "pclasses": [
+            "druid",
+            "druid",
+            "deathknight",
+            "warrior",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3821716583175925624706",
+        "pids": [
+            "5624706",
+            "9154216",
+            "7369393",
+            "7960757",
+            "9349177"
+        ],
+        "pnames": [
+            "Дъез",
+            "Shadowmommy",
+            "Чепуха",
+            "Thedich",
+            "Húmanetic"
+        ],
+        "dung": "2293_382",
+        "lvl": 17,
+        "time": 2404,
+        "score": 128.92,
+        "timestamp": 1658317592,
+        "pclasses": [
+            "druid",
+            "priest",
+            "warrior",
+            "rogue",
+            "shaman"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
     }
 ]
