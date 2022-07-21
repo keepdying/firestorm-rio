@@ -82718,5 +82718,247 @@
             122,
             12
         ]
+    },
+    {
+        "rid": "380171658372981654556",
+        "pids": [
+            "654556",
+            "2164269",
+            "5291667",
+            "9298481"
+        ],
+        "pnames": [
+            "Heallmeup",
+            "Smallppuwu",
+            "Фростград",
+            "Nihusarg"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 2920,
+        "score": 126.27,
+        "timestamp": 1658372981,
+        "pclasses": [
+            "druid",
+            "monk",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3801616583755569531422",
+        "pids": [
+            "9531422",
+            "444459",
+            "265261",
+            "1310348",
+            "2703838"
+        ],
+        "pnames": [
+            "Щепа",
+            "Valarck",
+            "Melizz",
+            "Ðárkø",
+            "Máha"
+        ],
+        "dung": "2284_380",
+        "lvl": 16,
+        "time": 2141,
+        "score": 130.65,
+        "timestamp": 1658375556,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "deathknight",
+            "rogue",
+            "monk"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "376171658377312671699",
+        "pids": [
+            "671699",
+            "6088735",
+            "1956914",
+            "7147137",
+            "8685195"
+        ],
+        "pnames": [
+            "Yoin",
+            "Hanamîchan",
+            "Deadmark",
+            "Khayatiwarr",
+            "Leroymaan"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 1895,
+        "score": 135.61,
+        "timestamp": 1658377312,
+        "pclasses": [
+            "monk",
+            "shaman",
+            "hunter",
+            "warrior",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "376171658373820671699",
+        "pids": [
+            "671699",
+            "64755",
+            "411793",
+            "5235765",
+            "8595032"
+        ],
+        "pnames": [
+            "Yoin",
+            "Fallo",
+            "Fromehel",
+            "Nathónus",
+            "Casas"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 1906,
+        "score": 135.59,
+        "timestamp": 1658373820,
+        "pclasses": [
+            "monk",
+            "shaman",
+            "demonhunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3782116583725783432565",
+        "pids": [
+            "3432565",
+            "8964414",
+            "4287246",
+            "6984619",
+            "9115565"
+        ],
+        "pnames": [
+            "Skâar",
+            "Imyoursoul",
+            "Towsinowx",
+            "Samá",
+            "Shélbý"
+        ],
+        "dung": "2287_378",
+        "lvl": 21,
+        "time": 1847,
+        "score": 155.19,
+        "timestamp": 1658372578,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "deathknight",
+            "hunter",
+            "rogue"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3781716583777664628994",
+        "pids": [
+            "4628994",
+            "5416461",
+            "3183258",
+            "5430814",
+            "9129732"
+        ],
+        "pnames": [
+            "Kilpø",
+            "Tyranito",
+            "Kenso",
+            "Nistynamundk",
+            "Lushox"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 1626,
+        "score": 135.77,
+        "timestamp": 1658377766,
+        "pclasses": [
+            "monk",
+            "shaman",
+            "hunter",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3751716583729478673412",
+        "pids": [
+            "8673412",
+            "3444735",
+            "540572",
+            "6513171",
+            "9499963"
+        ],
+        "pnames": [
+            "Jerjès",
+            "Kaelthusx",
+            "Tolarian",
+            "Budoka",
+            "Tanakehitome"
+        ],
+        "dung": "2290_375",
+        "lvl": 17,
+        "time": 1789,
+        "score": 135.03,
+        "timestamp": 1658372947,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "warlock",
+            "monk",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
     }
 ]
