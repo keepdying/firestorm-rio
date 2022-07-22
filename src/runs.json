@@ -43710,7 +43710,7 @@
         ],
         "pnames": [
             "Iseestar",
-            "Gazlowé",
+            "Nérzhül",
             "Ghétto",
             "Glorune",
             "Nihusarg"
@@ -87144,6 +87144,41 @@
             "hunter",
             "deathknight",
             "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3751816584662056417348",
+        "pids": [
+            "6417348",
+            "8980608",
+            "1700453",
+            "5474186",
+            "7695225"
+        ],
+        "pnames": [
+            "Zantyextroll",
+            "Imyourbishop",
+            "Trísttan",
+            "Zahelu",
+            "Strihar"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1943,
+        "score": 133.42,
+        "timestamp": 1658466205,
+        "pclasses": [
+            "druid",
+            "priest",
+            "monk",
+            "warlock",
+            "mage"
         ],
         "affixes": [
             128,
