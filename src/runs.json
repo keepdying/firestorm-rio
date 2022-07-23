@@ -90301,5 +90301,250 @@
             122,
             12
         ]
+    },
+    {
+        "rid": "3801716585754249331399",
+        "pids": [
+            "9331399",
+            "5208403",
+            "6645835",
+            "8765203",
+            "9283924"
+        ],
+        "pnames": [
+            "Rètard",
+            "Кактусвраю",
+            "Дэгос",
+            "Critcacke",
+            "Glorune"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 2391,
+        "score": 135.14,
+        "timestamp": 1658575424,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "rogue",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3811816585752201457483",
+        "pids": [
+            "1457483",
+            "9195505",
+            "5291667",
+            "9298481",
+            "9691639"
+        ],
+        "pnames": [
+            "Drylik",
+            "Рамс",
+            "Фростград",
+            "Nihusarg",
+            "Olyvaider"
+        ],
+        "dung": "2285_381",
+        "lvl": 18,
+        "time": 2204,
+        "score": 140.29,
+        "timestamp": 1658575220,
+        "pclasses": [
+            "druid",
+            "paladin",
+            "mage",
+            "warrior",
+            "deathknight"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3792016585709229483482",
+        "pids": [
+            "9483482",
+            "2075756",
+            "4871342",
+            "8934793",
+            "9499963"
+        ],
+        "pnames": [
+            "Bawashh",
+            "Emmaw",
+            "Laptitefumee",
+            "Awfulpláyer",
+            "Tanakehitome"
+        ],
+        "dung": "2289_379",
+        "lvl": 20,
+        "time": 2065,
+        "score": 150.47,
+        "timestamp": 1658570922,
+        "pclasses": [
+            "monk",
+            "priest",
+            "hunter",
+            "paladin",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3752016585757409005581",
+        "pids": [
+            "9005581",
+            "8950087",
+            "4667339",
+            "9564882",
+            "9690642"
+        ],
+        "pnames": [
+            "Fridapala",
+            "Silies",
+            "Runewound",
+            "Valemagus",
+            "Akalovedps"
+        ],
+        "dung": "2290_375",
+        "lvl": 20,
+        "time": 1477,
+        "score": 150.9,
+        "timestamp": 1658575740,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "warrior",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3822216585787879169745",
+        "pids": [
+            "9169745",
+            "5568080",
+            "4667339",
+            "6780481",
+            "7948198"
+        ],
+        "pnames": [
+            "Teddybeãr",
+            "Vandämme",
+            "Runewound",
+            "Shimhaehae",
+            "Scorkaa"
+        ],
+        "dung": "2293_382",
+        "lvl": 22,
+        "time": 2117,
+        "score": 160.36,
+        "timestamp": 1658578787,
+        "pclasses": [
+            "druid",
+            "monk",
+            "warrior",
+            "deathknight",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3822116585789619005581",
+        "pids": [
+            "9005581",
+            "8950087",
+            "151752",
+            "9564882",
+            "9690642"
+        ],
+        "pnames": [
+            "Fridapala",
+            "Silies",
+            "Strumy",
+            "Valemagus",
+            "Akalovedps"
+        ],
+        "dung": "2293_382",
+        "lvl": 21,
+        "time": 2379,
+        "score": 149.14,
+        "timestamp": 1658578961,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3821916585781909251695",
+        "pids": [
+            "9251695",
+            "7657876",
+            "930280",
+            "6082757",
+            "9479582"
+        ],
+        "pnames": [
+            "Iseestar",
+            "Миира",
+            "Golee",
+            "Скатина",
+            "Furybash"
+        ],
+        "dung": "2293_382",
+        "lvl": 19,
+        "time": 2372,
+        "score": 139.2,
+        "timestamp": 1658578190,
+        "pclasses": [
+            "druid",
+            "priest",
+            "hunter",
+            "deathknight",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
     }
 ]
