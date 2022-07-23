@@ -89916,5 +89916,145 @@
             122,
             12
         ]
+    },
+    {
+        "rid": "3801916585498654628994",
+        "pids": [
+            "4628994",
+            "5430786",
+            "3183258",
+            "6780481",
+            "9499963"
+        ],
+        "pnames": [
+            "Kilpø",
+            "Níde",
+            "Kenso",
+            "Shimhaehae",
+            "Tanakehitome"
+        ],
+        "dung": "2284_380",
+        "lvl": 19,
+        "time": 2343,
+        "score": 145.24,
+        "timestamp": 1658549865,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3811816585464604628994",
+        "pids": [
+            "4628994",
+            "5430786",
+            "3183258",
+            "6780481",
+            "9499963"
+        ],
+        "pnames": [
+            "Kilpø",
+            "Níde",
+            "Kenso",
+            "Shimhaehae",
+            "Tanakehitome"
+        ],
+        "dung": "2285_381",
+        "lvl": 18,
+        "time": 2267,
+        "score": 140.16,
+        "timestamp": 1658546460,
+        "pclasses": [
+            "monk",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "375201658542978654556",
+        "pids": [
+            "654556",
+            "9177443",
+            "2124180",
+            "8345231",
+            "9725659"
+        ],
+        "pnames": [
+            "Heallmeup",
+            "Amádeuz",
+            "Zihelk",
+            "Shinsodk",
+            "Idontmind"
+        ],
+        "dung": "2290_375",
+        "lvl": 20,
+        "time": 2408,
+        "score": 138.25,
+        "timestamp": 1658542978,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "monk",
+            "deathknight",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "377181658547436654556",
+        "pids": [
+            "654556",
+            "6115388",
+            "62181",
+            "7728448",
+            "9278210"
+        ],
+        "pnames": [
+            "Heallmeup",
+            "Shäckö",
+            "Sàiyan",
+            "Metamørphine",
+            "Antizai"
+        ],
+        "dung": "2291_377",
+        "lvl": 18,
+        "time": 2054,
+        "score": 141.02,
+        "timestamp": 1658547436,
+        "pclasses": [
+            "druid",
+            "druid",
+            "shaman",
+            "demonhunter",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
     }
 ]
