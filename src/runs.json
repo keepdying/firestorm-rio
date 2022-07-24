@@ -95481,5 +95481,390 @@
             122,
             12
         ]
+    },
+    {
+        "rid": "3801816586472129061431",
+        "pids": [
+            "9061431",
+            "2995631",
+            "3581074",
+            "7787396",
+            "8673412"
+        ],
+        "pnames": [
+            "Mátádor",
+            "Tásjön",
+            "Drackai",
+            "Chikitocm",
+            "Jerjès"
+        ],
+        "dung": "2284_380",
+        "lvl": 18,
+        "time": 2759,
+        "score": 132.58,
+        "timestamp": 1658647212,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "deathknight",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3801716586477226533511",
+        "pids": [
+            "6533511",
+            "8980608",
+            "62430",
+            "5474186",
+            "6980870"
+        ],
+        "pnames": [
+            "Lyanthir",
+            "Imyourbishop",
+            "Tilttoo",
+            "Zahelu",
+            "Wíndrunner"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 1949,
+        "score": 136.04,
+        "timestamp": 1658647722,
+        "pclasses": [
+            "deathknight",
+            "priest",
+            "monk",
+            "warlock",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3812016586412769061431",
+        "pids": [
+            "9061431",
+            "2995631",
+            "5572003",
+            "7446839",
+            "7695225"
+        ],
+        "pnames": [
+            "Mátádor",
+            "Tásjön",
+            "Picotasomen",
+            "Everytìme",
+            "Strihar"
+        ],
+        "dung": "2285_381",
+        "lvl": 20,
+        "time": 2628,
+        "score": 142.55,
+        "timestamp": 1658641276,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "hunter",
+            "warrior",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3761816586456019334921",
+        "pids": [
+            "9334921",
+            "9374768",
+            "8810379",
+            "9224613",
+            "9379388"
+        ],
+        "pnames": [
+            "糯米",
+            "Raphae",
+            "Ránzár",
+            "冰法",
+            "Queryqueue"
+        ],
+        "dung": "2286_376",
+        "lvl": 18,
+        "time": 1834,
+        "score": 140.75,
+        "timestamp": 1658645601,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "mage",
+            "monk"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3761716586374309652355",
+        "pids": [
+            "9652355",
+            "7715849",
+            "7446839",
+            "7959802",
+            "9283924"
+        ],
+        "pnames": [
+            "Ramarin",
+            "Yursfela",
+            "Everytìme",
+            "Guzzguzz",
+            "Glorune"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 1579,
+        "score": 136.34,
+        "timestamp": 1658637430,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "warrior",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3781916586499346533511",
+        "pids": [
+            "6533511",
+            "8964414",
+            "62430",
+            "5474186",
+            "6980870"
+        ],
+        "pnames": [
+            "Lyanthir",
+            "Imyoursoul",
+            "Tilttoo",
+            "Zahelu",
+            "Wíndrunner"
+        ],
+        "dung": "2287_378",
+        "lvl": 19,
+        "time": 1906,
+        "score": 145.04,
+        "timestamp": 1658649934,
+        "pclasses": [
+            "deathknight",
+            "shaman",
+            "monk",
+            "warlock",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3781916586438619061431",
+        "pids": [
+            "9061431",
+            "2995631",
+            "3581074",
+            "7787396",
+            "8673412"
+        ],
+        "pnames": [
+            "Mátádor",
+            "Tásjön",
+            "Drackai",
+            "Chikitocm",
+            "Jerjès"
+        ],
+        "dung": "2287_378",
+        "lvl": 19,
+        "time": 2168,
+        "score": 137.43,
+        "timestamp": 1658643861,
+        "pclasses": [
+            "demonhunter",
+            "monk",
+            "deathknight",
+            "mage",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3791816586396828051457",
+        "pids": [
+            "8051457",
+            "70398",
+            "62181",
+            "6775255",
+            "7728448"
+        ],
+        "pnames": [
+            "Kren",
+            "Flamesky",
+            "Sàiyan",
+            "Maievbaby",
+            "Metamørphine"
+        ],
+        "dung": "2289_379",
+        "lvl": 18,
+        "time": 1964,
+        "score": 140.69,
+        "timestamp": 1658639682,
+        "pclasses": [
+            "paladin",
+            "monk",
+            "shaman",
+            "hunter",
+            "demonhunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3751916586482079334921",
+        "pids": [
+            "9334921",
+            "9374768",
+            "9224613",
+            "9379388",
+            "9499963"
+        ],
+        "pnames": [
+            "糯米",
+            "Raphae",
+            "冰法",
+            "Queryqueue",
+            "Tanakehitome"
+        ],
+        "dung": "2290_375",
+        "lvl": 19,
+        "time": 2065,
+        "score": 137.07,
+        "timestamp": 1658648207,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "mage",
+            "monk",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3772016586299244628994",
+        "pids": [
+            "4628994",
+            "6238413",
+            "1112678",
+            "3183258",
+            "6780481"
+        ],
+        "pnames": [
+            "Kilpø",
+            "Yanuko",
+            "Xerióus",
+            "Kenso",
+            "Shimhaehae"
+        ],
+        "dung": "2291_377",
+        "lvl": 20,
+        "time": 2453,
+        "score": 150.25,
+        "timestamp": 1658629924,
+        "pclasses": [
+            "monk",
+            "shaman",
+            "warlock",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
+    },
+    {
+        "rid": "3771916586422319513736",
+        "pids": [
+            "9513736",
+            "9376520",
+            "1700453",
+            "5474186",
+            "6980870"
+        ],
+        "pnames": [
+            "Imyourknight",
+            "Baruhara",
+            "Trísttan",
+            "Zahelu",
+            "Wíndrunner"
+        ],
+        "dung": "2291_377",
+        "lvl": 19,
+        "time": 3177,
+        "score": 135.38,
+        "timestamp": 1658642231,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "monk",
+            "warlock",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            122,
+            12
+        ]
     }
 ]
