@@ -123397,41 +123397,6 @@
         ]
     },
     {
-        "rid": "3821816587941817651567",
-        "pids": [
-            "7651567",
-            "306391",
-            "6984619",
-            "8308812",
-            "8980608"
-        ],
-        "pnames": [
-            "Campw",
-            "Masoscrivere",
-            "Samá",
-            "Fragan",
-            "Imyourbishop"
-        ],
-        "dung": "2293_382",
-        "lvl": 18,
-        "time": 1935,
-        "score": 140.76,
-        "timestamp": 1658794181,
-        "pclasses": [
-            "warrior",
-            "paladin",
-            "hunter",
-            "mage",
-            "priest"
-        ],
-        "affixes": [
-            128,
-            9,
-            123,
-            4
-        ]
-    },
-    {
         "rid": "3821816587937972913118",
         "pids": [
             "2913118",
@@ -147104,6 +147069,356 @@
             "druid",
             "priest",
             "hunter",
+            "warrior",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3801716590651772691808",
+        "pids": [
+            "2691808",
+            "2687976",
+            "4332843",
+            "5291667",
+            "8393606"
+        ],
+        "pnames": [
+            "Legendpala",
+            "Størmbørn",
+            "Dadychill",
+            "Фростград",
+            "Alltair"
+        ],
+        "dung": "2284_380",
+        "lvl": 17,
+        "time": 3058,
+        "score": 125.15,
+        "timestamp": 1659065177,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "warrior",
+            "mage",
+            "demonhunter"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3811616590649426104323",
+        "pids": [
+            "6104323",
+            "101457",
+            "3421043",
+            "6666486",
+            "8649846"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Soulkalibur",
+            "Sparkingredd",
+            "Jerïco",
+            "Baxué"
+        ],
+        "dung": "2285_381",
+        "lvl": 16,
+        "time": 1837,
+        "score": 131.07,
+        "timestamp": 1659064942,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "mage",
+            "warrior",
+            "shaman"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3761716590699729039632",
+        "pids": [
+            "9039632",
+            "7331807",
+            "3462390",
+            "6222136",
+            "9690363"
+        ],
+        "pnames": [
+            "Unseeing",
+            "Tioyu",
+            "Pinocho",
+            "Codys",
+            "Heigseil"
+        ],
+        "dung": "2286_376",
+        "lvl": 17,
+        "time": 1503,
+        "score": 136.52,
+        "timestamp": 1659069972,
+        "pclasses": [
+            "monk",
+            "monk",
+            "hunter",
+            "warrior",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3782116590688097651567",
+        "pids": [
+            "7651567",
+            "306391",
+            "3183258",
+            "8308812",
+            "8980608"
+        ],
+        "pnames": [
+            "Campw",
+            "Masoscrivere",
+            "Kenso",
+            "Fragan",
+            "Imyourbishop"
+        ],
+        "dung": "2287_378",
+        "lvl": 21,
+        "time": 2353,
+        "score": 145.5,
+        "timestamp": 1659068809,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3752016590658937651567",
+        "pids": [
+            "7651567",
+            "306391",
+            "3183258",
+            "8308812",
+            "8980608"
+        ],
+        "pnames": [
+            "Campw",
+            "Masoscrivere",
+            "Kenso",
+            "Fragan",
+            "Imyourbishop"
+        ],
+        "dung": "2290_375",
+        "lvl": 20,
+        "time": 1770,
+        "score": 150.08,
+        "timestamp": 1659065893,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3751816590623179039632",
+        "pids": [
+            "9039632",
+            "7331807",
+            "3462390",
+            "6222136",
+            "9690363"
+        ],
+        "pnames": [
+            "Unseeing",
+            "Tioyu",
+            "Pinocho",
+            "Codys",
+            "Heigseil"
+        ],
+        "dung": "2290_375",
+        "lvl": 18,
+        "time": 1748,
+        "score": 140.14,
+        "timestamp": 1659062317,
+        "pclasses": [
+            "monk",
+            "monk",
+            "hunter",
+            "warrior",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3771716590648989039632",
+        "pids": [
+            "9039632",
+            "7331807",
+            "3462390",
+            "6222136",
+            "9690363"
+        ],
+        "pnames": [
+            "Unseeing",
+            "Tioyu",
+            "Pinocho",
+            "Codys",
+            "Heigseil"
+        ],
+        "dung": "2291_377",
+        "lvl": 17,
+        "time": 2114,
+        "score": 135.9,
+        "timestamp": 1659064898,
+        "pclasses": [
+            "monk",
+            "monk",
+            "hunter",
+            "warrior",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3822016590628177651567",
+        "pids": [
+            "7651567",
+            "306391",
+            "3183258",
+            "8308812",
+            "8980608"
+        ],
+        "pnames": [
+            "Campw",
+            "Masoscrivere",
+            "Kenso",
+            "Fragan",
+            "Imyourbishop"
+        ],
+        "dung": "2293_382",
+        "lvl": 20,
+        "time": 2118,
+        "score": 150.36,
+        "timestamp": 1659062817,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "mage",
+            "priest"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3821816590664561690195",
+        "pids": [
+            "1690195",
+            "1432674",
+            "1700453",
+            "6775255",
+            "8923922"
+        ],
+        "pnames": [
+            "Mäldazzar",
+            "Inccubu",
+            "Trísttan",
+            "Maievbaby",
+            "Piesdepato"
+        ],
+        "dung": "2293_382",
+        "lvl": 18,
+        "time": 2687,
+        "score": 131.44,
+        "timestamp": 1659066456,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "monk",
+            "hunter",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            9,
+            123,
+            4
+        ]
+    },
+    {
+        "rid": "3821716590681856104323",
+        "pids": [
+            "6104323",
+            "6890318",
+            "3421043",
+            "6666486",
+            "9499963"
+        ],
+        "pnames": [
+            "Avenyyer",
+            "Kákuzó",
+            "Sparkingredd",
+            "Jerïco",
+            "Tanakehitome"
+        ],
+        "dung": "2293_382",
+        "lvl": 17,
+        "time": 1960,
+        "score": 135.7,
+        "timestamp": 1659068185,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "mage",
             "warrior",
             "warlock"
         ],
