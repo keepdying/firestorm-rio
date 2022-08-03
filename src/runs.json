@@ -193921,5 +193921,352 @@
             7,
             14
         ]
+    },
+    {
+        "rid": "3801516595230417738380",
+        "pids": [
+            "7738380",
+            "8455435",
+            "7656668",
+            "9520461",
+            "9594999"
+        ],
+        "pnames": [
+            "Maargarita",
+            "Wëedeveryday",
+            "Minikotik",
+            "Serenie",
+            "Пандаулька"
+        ],
+        "dung": "2284_380",
+        "lvl": 15,
+        "time": 2424,
+        "score": 125.07,
+        "timestamp": 1659523041,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "hunter",
+            "rogue",
+            "shaman"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3811816595223176237674",
+        "pids": [
+            "6237674",
+            "1477839",
+            "1435410",
+            "4670002",
+            "9331340"
+        ],
+        "pnames": [
+            "Alfalr",
+            "Hydromatics",
+            "Warrodps",
+            "Uncledzek",
+            "Constellarr"
+        ],
+        "dung": "2285_381",
+        "lvl": 18,
+        "time": 2148,
+        "score": 140.41,
+        "timestamp": 1659522317,
+        "pclasses": [
+            "druid",
+            "shaman",
+            "warrior",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3811516595279468296394",
+        "pids": [
+            "8296394",
+            "4324835",
+            "4346642",
+            "4691657",
+            "9210206"
+        ],
+        "pnames": [
+            "Possitive",
+            "Kapitánpipík",
+            "Øffset",
+            "Kattee",
+            "Infectftw"
+        ],
+        "dung": "2285_381",
+        "lvl": 15,
+        "time": 2075,
+        "score": 125.57,
+        "timestamp": 1659527946,
+        "pclasses": [
+            "paladin",
+            "priest",
+            "warrior",
+            "hunter",
+            "paladin"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "37616165952383766611",
+        "pids": [
+            "66611",
+            "8586274",
+            "5063121",
+            "9529690",
+            "9539559"
+        ],
+        "pnames": [
+            "Petitefesse",
+            "Ягодныймикс",
+            "Sexymâuse",
+            "Aquidah",
+            "Ryio"
+        ],
+        "dung": "2286_376",
+        "lvl": 16,
+        "time": 2026,
+        "score": 130.31,
+        "timestamp": 1659523837,
+        "pclasses": [
+            "druid",
+            "priest",
+            "deathknight",
+            "hunter",
+            "rogue"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3781816595287652913118",
+        "pids": [
+            "2913118",
+            "9171181",
+            "561979",
+            "9091466",
+            "9499963"
+        ],
+        "pnames": [
+            "Spectrat",
+            "Тайнор",
+            "Àzràél",
+            "Hiimgossu",
+            "Tanakehitome"
+        ],
+        "dung": "2287_378",
+        "lvl": 18,
+        "time": 1884,
+        "score": 140.09,
+        "timestamp": 1659528765,
+        "pclasses": [
+            "warrior",
+            "shaman",
+            "warrior",
+            "mage",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3781716595267978018528",
+        "pids": [
+            "8018528",
+            "3407194",
+            "2340934",
+            "4600604",
+            "8764540"
+        ],
+        "pnames": [
+            "Tankstajl",
+            "Mâyky",
+            "Kelî",
+            "Mínara",
+            "Ssllaammaa"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 1734,
+        "score": 135.48,
+        "timestamp": 1659526797,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "hunter",
+            "paladin",
+            "hunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3791616595160417817688",
+        "pids": [
+            "7817688",
+            "8311389",
+            "4403825",
+            "9252578",
+            "9336905"
+        ],
+        "pnames": [
+            "Simplethink",
+            "Славикходж",
+            "Kâzeshini",
+            "Diéhappy",
+            "Neharis"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 1931,
+        "score": 130.77,
+        "timestamp": 1659516041,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "monk",
+            "hunter",
+            "deathknight"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3791616595261387738380",
+        "pids": [
+            "7738380",
+            "8455435",
+            "5630279",
+            "9520461",
+            "9594999"
+        ],
+        "pnames": [
+            "Maargarita",
+            "Wëedeveryday",
+            "Taliandra",
+            "Serenie",
+            "Пандаулька"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2093,
+        "score": 130.41,
+        "timestamp": 1659526138,
+        "pclasses": [
+            "demonhunter",
+            "paladin",
+            "mage",
+            "rogue",
+            "shaman"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3791616595297419175571",
+        "pids": [
+            "9175571",
+            "8691637",
+            "8269775",
+            "8773531"
+        ],
+        "pnames": [
+            "Lumpak",
+            "Syntey",
+            "Jigari",
+            "Rasierhex"
+        ],
+        "dung": "2289_379",
+        "lvl": 16,
+        "time": 2688,
+        "score": 121.43,
+        "timestamp": 1659529741,
+        "pclasses": [
+            "paladin",
+            "druid",
+            "shaman",
+            "warlock"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3821616595226399311420",
+        "pids": [
+            "9311420",
+            "9533965",
+            "6991716",
+            "7371026",
+            "9620508"
+        ],
+        "pnames": [
+            "Плохойтапок",
+            "Dárvin",
+            "Cashka",
+            "Чудопирожок",
+            "Mortalenemy"
+        ],
+        "dung": "2293_382",
+        "lvl": 16,
+        "time": 2164,
+        "score": 130.25,
+        "timestamp": 1659522639,
+        "pclasses": [
+            "paladin",
+            "shaman",
+            "hunter",
+            "warrior",
+            "demonhunter"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
     }
 ]
