@@ -197730,5 +197730,75 @@
             7,
             14
         ]
+    },
+    {
+        "rid": "3752016595870309039632",
+        "pids": [
+            "9039632",
+            "7331807",
+            "3462390",
+            "6222136",
+            "9690363"
+        ],
+        "pnames": [
+            "Unseeing",
+            "Tioyu",
+            "Pinocho",
+            "Codys",
+            "Heigseil"
+        ],
+        "dung": "2290_375",
+        "lvl": 20,
+        "time": 2171,
+        "score": 140.89,
+        "timestamp": 1659587030,
+        "pclasses": [
+            "monk",
+            "monk",
+            "hunter",
+            "warrior",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3751916595871842704416",
+        "pids": [
+            "2704416",
+            "2699661",
+            "4979023",
+            "6513171",
+            "9147401"
+        ],
+        "pnames": [
+            "Kdigo",
+            "Grendeltl",
+            "Villä",
+            "Budoka",
+            "Windwitçh"
+        ],
+        "dung": "2290_375",
+        "lvl": 19,
+        "time": 2207,
+        "score": 135.49,
+        "timestamp": 1659587184,
+        "pclasses": [
+            "warrior",
+            "paladin",
+            "hunter",
+            "monk",
+            "mage"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
     }
 ]
