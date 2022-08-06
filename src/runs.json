@@ -204835,5 +204835,75 @@
             7,
             14
         ]
+    },
+    {
+        "rid": "3781716597617529747454",
+        "pids": [
+            "9747454",
+            "8088841",
+            "592193",
+            "3659507",
+            "8649846"
+        ],
+        "pnames": [
+            "Механикдк",
+            "Nhalu",
+            "Akairoma",
+            "Netflïx",
+            "Baxué"
+        ],
+        "dung": "2287_378",
+        "lvl": 17,
+        "time": 1862,
+        "score": 135.15,
+        "timestamp": 1659761752,
+        "pclasses": [
+            "deathknight",
+            "paladin",
+            "hunter",
+            "warrior",
+            "shaman"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
+    },
+    {
+        "rid": "3791716597678741690195",
+        "pids": [
+            "1690195",
+            "9376520",
+            "1956914",
+            "6533511",
+            "6979584"
+        ],
+        "pnames": [
+            "Mäldazzar",
+            "Baruhara",
+            "Deadmark",
+            "Lyanthir",
+            "Ðominance"
+        ],
+        "dung": "2289_379",
+        "lvl": 17,
+        "time": 2108,
+        "score": 135.38,
+        "timestamp": 1659767874,
+        "pclasses": [
+            "paladin",
+            "paladin",
+            "hunter",
+            "deathknight",
+            "warrior"
+        ],
+        "affixes": [
+            128,
+            10,
+            7,
+            14
+        ]
     }
 ]
