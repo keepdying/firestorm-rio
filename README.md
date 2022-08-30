@@ -68,7 +68,3 @@ As you see I'm not much a front-end developer and having hard time with CSS.
 ### I want to contribute?
 
 You can check/change page's source in repo and make pull requests to contribute! 
-
-### How can I contact you?
-
-You don't
