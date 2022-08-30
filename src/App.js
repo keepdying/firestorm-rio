@@ -17,7 +17,7 @@ function App() {
         <header>
             <Container className="headerContent" maxWidth="lg" component="div">
               <h1>Firestorm RIO (Beta) Shadowlands S2</h1>
-              <p>Made by keepdying#5821, web design by Rynxe#4789. Last updated on {timeConverter(lastUpdated)}</p>
+              <p>Made by keepdying#5821. Last updated on {timeConverter(lastUpdated)}</p>
               <p>Total Players: {players_json.length}, Total Runs: {currentRuns.length}</p>
               <p> F.A.Q: <a href="https://github.com/keepdying/firestorm-rio">https://github.com/keepdying/firestorm-rio</a></p>
               <p> By using Firestorm RIO, You agree that you read <a href="https://github.com/keepdying/firestorm-rio#how-does-this-work">"How does this work?"</a>.</p>
