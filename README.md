@@ -71,4 +71,4 @@ You can check/change page's source in repo and make pull requests to contribute!
 
 ### How can I contact you?
 
-Discord: keepdying#5821
+You don't
